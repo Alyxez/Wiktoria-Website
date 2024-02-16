@@ -16,11 +16,10 @@ nav ul li a {
 	display: block;
 	padding: 8px;
 	background-color: blue;
-	color: red;
+	color: white;
 }
-
 nav ul li a:hover {
-	background-color: red;
+	background-color: green;
 	color: blue;
 }
 
@@ -30,4 +29,9 @@ body {
 
 h2 {
 	display: inline;
+}
+
+
+#background-text {
+	background-color: green;
 }

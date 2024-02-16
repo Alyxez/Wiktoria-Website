@@ -1,0 +1,29 @@
+nav ul {
+	list-style-type: none;
+}
+
+nav ul li {
+	float: left;
+	width: 265px;
+	text-align: center;
+}
+
+nav ul li a {
+	display: block;
+	padding: 8px;
+	background-color: blue;
+	color: red;
+}
+
+nav ul li a:hover {
+	background-color: red;
+	color: blue;
+}
+
+body {
+	background-color: #00BFFF;
+}
+
+h2 {
+	display: inline;
+}
